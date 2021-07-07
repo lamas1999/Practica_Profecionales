@@ -25,7 +25,7 @@
                         <h6> <i class="fas fa-map-marker-alt"></i> <?php echo $post['ciudad']; ?>, <?php echo $post['pais']; ?></h6>
                             <p>  <?php echo $post['descripcion']; ?>.</p></br>
                         <div class="col-lg-3 cta-btn-container text-center">
-                            <a href="<?php echo RUTA?>/modulos/modulo_estudiante/ver.oferta.php" class="get-ver-btn scrollto">Ver Empleo</a>
+                            <a href="<?php echo RUTA?>/modulos/modulo_estudiante/index.php" class="get-ver-btn scrollto">Ver Empleo</a>
                         </div>
                         </div>
                     </div>
